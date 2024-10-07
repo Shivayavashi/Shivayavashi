@@ -4,7 +4,7 @@
 📫 Reach me on [Linked in](linkedin.com/in/shivayavashilaxmipriya-s-5587ba228/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivayavashi&layout=donut-vertical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivayavashi&layout=donut-vertical&card_width=320" />
 </a>
 
 <!--
