@@ -1,5 +1,5 @@
 ## Hi this is Shivayavashilaxmipriya 👋
-🔭 Data science student from Thiagarajar College of Engineering </br>
+🔭 Data science student with relevent courseworks in ML,AI,LLM,NLP,Statistics,DBMS </br>
 👯 Looking to collaborate with AI & Data Science aspirants </br>
 📫 Reach me on [Linked in](linkedin.com/in/shivayavashilaxmipriya-s-5587ba228/)
 <!--
