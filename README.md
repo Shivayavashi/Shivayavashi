@@ -1,6 +1,6 @@
 ## Hi this is Shivayavashilaxmipriya 👋
 🔭 I’m a data science student with passionate skills in playing with real time data </br>
-👯 I’m looking to collaborate with data aspirants to deal with real time problem statements </br>
+👯 Looking to collaborate with AI & Data Science aspirants </br>
 📫 Reach me on [Linked in](linkedin.com/in/shivayavashilaxmipriya-s-5587ba228/)
 <!--
 **Shivayavashi/Shivayavashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
