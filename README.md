@@ -3,7 +3,9 @@
 👯 Looking to collaborate with AI & Data Science aspirants </br>
 📫 Reach me on [Linked in](linkedin.com/in/shivayavashilaxmipriya-s-5587ba228/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivayavashi&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivayavashi&layout=donut-vertical" />
+</a>
 
 <!--
 **Shivayavashi/Shivayavashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
