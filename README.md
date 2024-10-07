@@ -1,11 +1,13 @@
-## Hi there 👋
-
+## Hi this is Shivayavashilaxmipriya 👋
+🔭 I’m a data science student with passionate skills in playing with real time data </br>
+👯 I’m looking to collaborate with data aspirants to deal with real time problem statements </br>
+📫 Reach me on [Linked in](linkedin.com/in/shivayavashilaxmipriya-s-5587ba228/)
 <!--
 **Shivayavashi/Shivayavashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
