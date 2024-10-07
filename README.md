@@ -2,6 +2,9 @@
 🔭 Data science student with relevent courseworks in ML,AI,LLM,NLP,Statistics,DBMS </br>
 👯 Looking to collaborate with AI & Data Science aspirants </br>
 📫 Reach me on [Linked in](linkedin.com/in/shivayavashilaxmipriya-s-5587ba228/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivayavashi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Shivayavashi/Shivayavashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
