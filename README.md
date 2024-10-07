@@ -1,5 +1,5 @@
 ## Hi this is Shivayavashilaxmipriya 👋
-🔭 I’m a data science student with passionate skills in playing with real time data </br>
+🔭 Data science student from Thiagarajar College of Engineering </br>
 👯 Looking to collaborate with AI & Data Science aspirants </br>
 📫 Reach me on [Linked in](linkedin.com/in/shivayavashilaxmipriya-s-5587ba228/)
 <!--
